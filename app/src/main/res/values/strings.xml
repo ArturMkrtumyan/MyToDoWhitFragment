@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyToDoWhitFragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="high_r_btn">high</string>
+    <string name="medium_r_btn">medium</string>
+    <string name="low_r_btn">low</string>
+</resources>
